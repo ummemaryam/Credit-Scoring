@@ -67,3 +67,6 @@ Probability of default: 0.18
 3) Scikit-learn
 4) Seaborn, Matplotlib
 5) Gradio
+
+# Output
+![3](https://github.com/user-attachments/assets/1fa04c41-28ab-4924-8aae-eb6a20424abc)
