@@ -1,5 +1,5 @@
 # Credit Scoring Prediction using Machine Learning
-This project predicts the likelihood of a person defaulting on their credit payment within 2 years using machine learning models. It was built as part of a data science and AI learning task.
+This project predicts the likelihood of a person defaulting on their credit payment within 2 years using machine learning model.
 
 # Project Overview
 The model predicts **credit default risk** (SeriousDlqin2yrs = 1) based on customer financial data such as:
